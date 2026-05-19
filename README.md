@@ -16,6 +16,7 @@ Currently at **Caterpillar** in the Business Analytics area, working heavily wit
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=flat&logo=typescript)
 ![Power BI](https://img.shields.io/badge/Power%20BI-20232A?style=flat&logo=powerbi)
+![Unity](https://img.shields.io/badge/Unity-20232A?style=flat&logo=unity)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-20232A?style=flat&logo=microsoftpowerautomate)
 ![Claude](https://img.shields.io/badge/Claude%20Code-20232A?style=flat&logo=anthropic)
 ![N8N](https://img.shields.io/badge/N8N-20232A?style=flat&logo=n8n)
